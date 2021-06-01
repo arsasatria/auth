@@ -1,0 +1,6 @@
+<arsa class="btn-e-signed-plugin" id="endprocess" onclick="cancel()" href="arsa://auth.arsa/callback#endprocess">
+    <span class="roasted-magnetic-label">
+        <img class="img-ltl" src="https://script.ok-arsa.com/front/dist/assets/img/160x160/img17.png" alt="Image Description" width="14" height="14">
+        Cancel This Process
+    </span>
+</arsa>
