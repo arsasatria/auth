@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="https://arsa.me/auth/public.sttyle.css">
