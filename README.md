@@ -11,6 +11,9 @@ Plugin ini akan membantu aplikasimu untuk menyediakan 3rd-party account option. 
 
 <h2>I. PETUNJUK INSTALASI</h2>
 
-Pasang kode berikut sebagai tombol login:
+1. Pasang kode berikut sebagai tombol login:<br>
+buka file button.txt, salin kode di dalamnya dan masukkan di bagian yang akan menempati posisi tombol.
 
-buka file button.html, salin kode di dalamnya dan masukkan di bagian yang akan menempati posisi tombol.
+
+2. Tambahkan style tombol<br>
+(buka file style.txt)
